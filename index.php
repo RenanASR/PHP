@@ -10,5 +10,7 @@
 		$ano = "2019";
 	?>
 		<p><?= $hello; ?></p>
+		<hr />
+		<p>Estamos no ano de <?= "".$ano; ?></p>
 	</body>
 </html>
