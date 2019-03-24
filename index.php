@@ -5,9 +5,10 @@
 	</head>
 	<body>
 	<?php 
-		echo "Olá Mundo 123!";
-		echo "Olá HCode!";
-		echo "2019";
+		$hello = "Olá Mundo 123!";
+		$hcode = "Olá HCode!";
+		$ano = "2019";
 	?>
+		<p><?= $hello; ?></p>
 	</body>
 </html>
