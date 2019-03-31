@@ -14,5 +14,6 @@
 		<p><?= $world; ?></p>
 		<hr />
 		<p>Estamos no ano de <?= "".$ano; ?></p>
+		<p><? $hcode; ?>, preciso terminar meu curso!</p>
 	</body>
 </html>
