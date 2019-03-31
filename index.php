@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>PHP</title>
+		<title>PHP - Hello World</title>
 	</head>
 	<body>
 	<?php 
